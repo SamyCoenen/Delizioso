@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /idea
+
+User-agent: *
+Disallow: /nbproject
+
+User-agent: *
+Disallow: /Deleted
+
+User-agent: *
+Disallow: /Fullcss
+
+User-agent: *
+Disallow: /pdf
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: Yahoo-MMCrawler
+Disallow: /
+
+User-agent: psbot
+Disallow: /

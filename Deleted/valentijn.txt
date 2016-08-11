@@ -1,0 +1,9 @@
+<h3>Valentijn</h3>
+<img class="pure-img-responsive" alt="valentijn afbeelding" src="afbeeldingen/valentijn.png">
+<article>
+  <p>12, 13 en 14 februari verwennen wij iedereen met een Valentijnshapje van het huis!</p>
+<p>U kan dan eten à la carte en er zullen eveneens suggesties aanwezig zijn.</p>
+<p> Casa Delizioso</p>
+
+<a href="valentijn.docx">Document</a>
+</article>
